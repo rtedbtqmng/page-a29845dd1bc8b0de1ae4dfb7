@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cdcd408bb61ac8276753e1ac",
+  "owner": "rtedbtqmng",
+  "repo": "page-a29845dd1bc8b0de1ae4dfb7",
+  "title": "TomLink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a29845dd1bc8b0de1ae4dfb7",
+      "a": "TomLink",
+      "b": "2027官方最新地址导航",
+      "entity": "TomLink",
+      "brand": "TomLink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d68336102f07fb7ea04c9b2fd112662ec84453934b2196bbd24886e8b75fdc2b",
+      "content": {
+        "primary_entity": "TomLink",
+        "keyword1": "TomLink",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，不同平台适配情况存在差异，导入订阅前先确认版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先选好适合自己设备的套餐，再按客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，TomLink 提供基础版、旗舰版和团队版三档订阅，覆盖每月 100GB 到 1000GB 流量与 3 至 20 台设备在线需求。旗舰版附带 IPLC 专线游戏加速优化和全节点原生流媒体解锁，团队版支持企业定制路由。按年付费分别为 ¥150、¥350 和 ¥850，适合个人流媒体、游戏加速与团队协作等不同场景。",
+          "AI_FEATURES_INTRO": "从套餐、设备和订阅周期三个角度说明差异，帮助快速定位。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合轻度流媒体与日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速与全节点解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备选择",
+          "AI_FEATURE_TITLE_3": "按周期选择",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到订阅配置的常规流程。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "TomLink 面向需要跨区域访问的用户，提供基础版、旗舰版和团队版三档订阅，按每月流量与在线设备数区分。旗舰版搭载 IPLC 专线游戏加速，团队版支持企业定制路由，可按年付费降低单月成本。",
+          "AI_HERO_SUBTITLE": "三档订阅，适配不同设备需求",
+          "AI_HIGHLIGHT_1": "每月 100GB 起，最高 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "按年付费低至 ¥150",
+          "AI_PLANS_INTRO": "三档套餐均含流媒体解锁与节点支持，按流量和在线设备数区分。基础版适合轻度使用；旗舰版在流量、设备数和专线加速上更均衡；团队版面向多人协作与高带宽需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数、流媒体解锁与节点类型是否满足使用场景。",
+          "AI_STEP_TEXT_3": "按客户端文档完成订阅导入，并在对应设备上确认连接状态。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "TomLink 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月 100GB 以内流量；旗舰版覆盖 5 台设备与 300GB 流量；团队版支持 20 台设备和 1000GB 流量，适合多人共用。",
+          "AI_FAQ_ANSWER_2": "订阅链接通常出现在购买后展示的账户信息中，可复制到对应客户端。若使用多个客户端，同一订阅可在不同设备分别导入。",
+          "AI_FAQ_ANSWER_3": "客户端按设备系统区分，桌面端、移动端和路由器各有对应版本。按所选客户端的导入说明填入订阅地址，完成后选择节点连接。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。接近上限时，可临时关闭部分设备的连接或升级套餐。",
+          "AI_FAQ_ANSWER_5": "月付适合短期调整，年付在总价上更低。基础版年付 150 元、旗舰版 350 元、团队版 850 元，可按持续使用时间选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "TomLink 各套餐适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "购买后在哪里找到订阅链接？",
+          "AI_FAQ_QUESTION_3": "不同设备如何配置订阅？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量不够用怎么办？",
+          "AI_FAQ_QUESTION_5": "按月付和按年付怎么选？",
+          "AI_FAQ_TITLE": "常见使用问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jiqzupx.cn",
+    "host": "jiqzupx.cn"
+  },
+  "file_hashes": {
+    "index.html": "0a2a1b23e27b22ed5370bf597812dcb285573c70da9686f40d22474216b0b85d",
+    "sitemap.xml": "fc0b8105946b0d3ffa95c09ceb050a1b341d22c5f6052638d389573aa95ad1ec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e25e3c20d1cce2258fe82dee98eab1245e9c9566b2e8f3298dcdba1495d62fea",
+    "robots.txt": "2d63770e2edf7d49aa99fccac7e21dfcbd4cab13f21a51d8befee9f188e5d364",
+    "b657c051879ffcbcc8adf4694dadf50c.txt": "0af27dbbc822feb7d17e10e0532bd04c918c060013024b781311205392156e67"
+  },
+  "revision": "dd7eeecb36e20fdecd998558aada51a1acbe8784c37f7a34e8e8bf315bd8b74d"
+}
